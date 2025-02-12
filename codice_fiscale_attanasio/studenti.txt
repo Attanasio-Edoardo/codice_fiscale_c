@@ -1,0 +1,8 @@
+1,Maria,Bianchi,Storia,8,Italiano,6,Matematica,4,Informatica,6,Sistemi,8,Tpsi,10,Telecomunicazioni,6,Inglese,6,Religione,10,Educazione fisica,9
+2,Enrico,Rossi,Storia,7,Italiano,5,Matematica,9,Informatica,7,Sistemi,7,Tpsi,10,Telecomunicazioni,6,Inglese,6,Religione,9,Educazione fisica,8
+3,Giulio,Verdi,Storia,6,Italiano,6,Matematica,5,Informatica,7,Sistemi,6,Tpsi,10,Telecomunicazioni,6,Inglese,6,Religione,9,Educazione fisica,9
+4,Emanuel,Belli,Storia,8,Italiano,7,Matematica,7,Informatica,7,Sistemi,8,Tpsi,10,Telecomunicazioni,6,Inglese,6,Religione,10,Educazione fisica,10
+5,Silvia,Sarde,Storia,6,Italiano,6,Matematica,9,Informatica,4,Sistemi,10,Tpsi,10,Telecomunicazioni,6,Inglese,6,Religione,9,Educazione fisica,7
+6,Mario,Desio,Storia,10,Italiano,9,Matematica,8,Informatica,7,Sistemi,8,Tpsi,10,Telecomunicazioni,6,Inglese,6,Religione,10,Educazione fisica,6
+7,Maria,Buni,Storia,8,Italiano,6,Matematica,9,Informatica,7,Sistemi,8,Tpsi,10,Telecomunicazioni,6,Inglese,6,Religione,9,Educazione fisica,9
+8,Benedetta,Brusi,Storia,9,Italiano,10,Matematica,9,Informatica,5,Sistemi,8,Tpsi,10,Telecomunicazioni,6,Inglese,6,Religione,9,Educazione fisica,10
